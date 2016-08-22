@@ -4,3 +4,4 @@
 /mini/.gitignore
 /mini/.project
 *classes
+/mini/src/main/resources/config/jdbc.properties
