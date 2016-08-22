@@ -1,0 +1,6 @@
+/mini/.settings
+/mini/build
+/mini/.classpath
+/mini/.gitignore
+/mini/.project
+*classes
