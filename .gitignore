@@ -1,7 +1,8 @@
-/mini/.settings
+﻿/mini/.settings
 /mini/build
 /mini/.classpath
 /mini/.gitignore
 /mini/.project
 *classes
 /mini/src/main/resources/config/jdbc.properties
+.settings
